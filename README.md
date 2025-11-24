@@ -8,7 +8,7 @@ The project addresses the challenge of automating the labor-intensive process of
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 | Component | Tool/Library | Purpose |
 | :--- | :--- | :--- |
 | **Language** | Python 3.x | Main development environment. |
@@ -19,7 +19,7 @@ The project addresses the challenge of automating the labor-intensive process of
 
 ---
 
-## 📑 Project Phases (DSP Pipeline)
+## Project Phases (DSP Pipeline)
 
 The project is structured into three main phases, reflecting a standard signal processing and machine learning workflow:
 
@@ -42,8 +42,8 @@ The project is structured into three main phases, reflecting a standard signal p
 
 ---
 
-## 🏃 Getting Started
+##  Getting Started
 
 ### Prerequisites
 1.  Clone this repository: https://github.com/MoAm33n/EEG_Sleep_Staging_DSP.git 
-    ```bash
+
