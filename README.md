@@ -45,5 +45,5 @@ The project is structured into three main phases, reflecting a standard signal p
 ## 🏃 Getting Started
 
 ### Prerequisites
-1.  Clone this repository:
+1.  Clone this repository: https://github.com/MoAm33n/EEG_Sleep_Staging_DSP.git 
     ```bash
