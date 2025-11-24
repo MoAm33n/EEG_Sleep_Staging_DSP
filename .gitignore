@@ -1,3 +1,15 @@
+# --- EEG Signals and Systems Project Specific Exclusions ---
+# Ignore all raw data files (EDF files)
+# The entire data/ folder and its contents are too large for GitHub
+data/
+
+# Ignore intermediate and final numerical results
+*.npz
+*.csv
+
+# Ignore final figures generated during the report phase
+/reports/figures/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
